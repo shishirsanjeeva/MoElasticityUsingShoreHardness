@@ -16,7 +16,7 @@ This repository contains code and resources for calculating the modulus of elast
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/MoElasticityUsingShoreHardness.git
+    git clone https://github.com/shishirsanjeeva/MoElasticityUsingShoreHardness.git
     ```
 2. Install dependencies:
     ```bash
