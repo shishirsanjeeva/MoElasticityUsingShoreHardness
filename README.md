@@ -1,4 +1,4 @@
-# MoElasticityUsingShoreHardness
+# Modulus of Elasticity Calculation Using Shore Hardness
 
 A project to estimate the modulus of elasticity (MoE) using Shore hardness measurements.
 
