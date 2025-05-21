@@ -1,0 +1,21 @@
+version = 1
+requires-python = ">=3.13"
+
+[[package]]
+name = "moelasticityusingshorehardness"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "python-math" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "python-math", specifier = ">=0.0.1" }]
+
+[[package]]
+name = "python-math"
+version = "0.0.1"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ff/8c/60c13be29a2f2e74c0313f2e62c7f751c944fe54b917afa5f88144e71a66/python_math-0.0.1-py3-none-any.whl", hash = "sha256:897efb087bc81bbb32277046830c1e2407203c637a43aa0834dcd4de822024c8", size = 2438 },
+]
